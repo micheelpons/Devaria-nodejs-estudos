@@ -19,6 +19,9 @@ readline.question('Qual é o ano de seu nascimento?', ano => {
                         case 'Douglas' :
                             console.log('Bem vindo ao kart Douglas!');
                             break;
+                        case 'Michel' :
+                            console.log('Bem vindo ao kart Michel!');
+                            break;
                         case 'Rafael' :
                             console.log('Bem vindo ao kart Rafael!');
                             break;
